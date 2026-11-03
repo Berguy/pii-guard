@@ -217,11 +217,8 @@ Distribuído sob a licença **MIT**. Consulte o arquivo [LICENSE](LICENSE) para 
  
 **Berguy Silva** — Engenheiro de software, pós-graduado em Computação Forense e Perícia Digital e em Gestão de Projetos.
  
-- LinkedIn: [linkedin.com/in/BerguySilva](https://www.linkedin.com/in/BerguySilva)
-- GitHub: [github.com/Berguy](https://github.com/Berguy)
+- LinkedIn: https://www.linkedin.com/in/BerguySilva
+- GitHub: https://github.com/Berguy
+- Email: contato@berguysilva.com.br
  
-ANTES DE PUBLICAR — 4 VERIFICAÇÕES OBRIGATÓRIAS
-Confirme o comando da CLI: o README usa "pii-guard scan ." como comando. Verifique no pyproject.toml se o entry point está registrado como "pii-guard". Se for outro nome, ajuste todas as ocorrências no README.
-Verifique se o arquivo LICENSE existe na raiz do repositório. Se não existir, crie um com o texto da licença MIT.
-Confirme a existência de testes automatizados. O README não menciona contagem de testes porque ela não foi informada. Se houver suíte de testes, adicione um badge e uma linha na seção de qualidade.
-O README documenta uma limitação real: o detector de PII roda apenas em arquivos .py. Mantenha essa nota — documentar limitação com honestidade aumenta a credibilidade do projeto, especialmente num tema de conformidade.
+
